@@ -1,2 +1,5 @@
 # hellow-world2
-just another repository
+
+Hi Humans
+
+Just working out how to use Github
